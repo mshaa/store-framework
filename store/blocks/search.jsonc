@@ -10,6 +10,7 @@
      ]
   },
   "search-result-layout.desktop": {
+  	"block": [
 	  "breadcrumb.search"
 	  "search-title.v2"
 	  "total-products.v2"
@@ -18,5 +19,6 @@
 	  "search-content"
 	  "filter-navigator.v3"
 	  "search-fetch-more"
+  	]
   }
 }
